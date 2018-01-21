@@ -1,6 +1,12 @@
 ==========
 # Build-uri
 * [x] Hub
+* [ ] Spawn
+  * [ ] Seablock
+  * [ ] Survival
+* [ ] Insule
+  * [ ] Seablock
+  * [ ] Skyblock
 
 ==========
 * RS - Resurse
