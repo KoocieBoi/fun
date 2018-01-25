@@ -11,7 +11,7 @@
 9. [MRL Plus](https://www.spigotmc.org/resources/mineresetliteplus.1898/)
 10. [NCP Config](https://www.spigotmc.org/threads/nocheatplus-config-optimized-and-free.158041/)
 11. [Parkour](https://www.spigotmc.org/resources/parkour.23685/)
-editare test
+editare test j 
 ==========
 * RS - Resurse
 * x -> Global
