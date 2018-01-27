@@ -16,6 +16,7 @@
 14. [MiniaturePets](https://www.spigotmc.org/resources/%E2%8C%BE-miniaturepets-%E2%8C%BE-custom-mobs-great-for-eula-christmas-sale.23991/)
 15. [SimplePets](https://www.spigotmc.org/resources/simplepets.14124/)
 16. [EpicPets](https://www.spigotmc.org/resources/epicpets-v1-8-1-12-great-for-eula-pet-plugin.40697/)
+17. [Better Nick](https://www.spigotmc.org/resources/better-nick-api-1-8-3-1-12-2.39633/)
 
 ==========
 * RS - Resurse
