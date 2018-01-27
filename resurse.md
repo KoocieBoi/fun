@@ -11,6 +11,11 @@
 9. [MRL Plus](https://www.spigotmc.org/resources/mineresetliteplus.1898/)
 10. [NCP Config](https://www.spigotmc.org/threads/nocheatplus-config-optimized-and-free.158041/)
 11. [Parkour](https://www.spigotmc.org/resources/parkour.23685/)
+12. [HeadsPlus](https://www.spigotmc.org/resources/headsplus-1-8-x-1-12-x.40265/)
+13. [HatsGUI](https://www.spigotmc.org/resources/hatsgui-%E2%98%85135-hats-eula-compliant-%E2%98%85-1-8.27030/)
+14. [MiniaturePets](https://www.spigotmc.org/resources/%E2%8C%BE-miniaturepets-%E2%8C%BE-custom-mobs-great-for-eula-christmas-sale.23991/)
+15. [SimplePets](https://www.spigotmc.org/resources/simplepets.14124/)
+16. [EpicPets](https://www.spigotmc.org/resources/epicpets-v1-8-1-12-great-for-eula-pet-plugin.40697/)
 
 ==========
 * RS - Resurse
